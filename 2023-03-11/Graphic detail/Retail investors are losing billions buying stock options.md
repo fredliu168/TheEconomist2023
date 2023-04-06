@@ -1,0 +1,19 @@
+###### No good options
+# Retail investors are losing billions buying stock options 
+##### The latest fad is contracts with just hours left before expiration 
+> Mar 7th 2023 
+
+
+Not long ago trading in American stock options was limited mainly to professional investors. Options are contracts that provide the right to buy or sell a security at a specified price over a fixed time period. They can deliver big payouts if a stock moves in the desired direction, and expire worthless otherwise. Sophisticated buyers use options to hedge against risk, generate income or as a form of leverage. However, options can also be used to gamble.
+Interest in American options has grown rapidly since the covid-19 pandemic began. In early 2020 the number of options traded per day rose from 20m to 30m. It surged again to 40m in early 2021, when trading erupted in “meme” stocks such as GameStop and enthusiasts flocked to options to magnify their bets. Trading has reached record highs this year. The average in February was 45m, and on February 2nd 68m contracts changed hands.
+Overall, the most heavily traded options are puts—bets that a security’s price will fall—on market indices, which can be used to limit risk. Most of these contracts are probably held by institutional investors. Retail traders, though, seem to be using options mainly to speculate: in 2020-21 they bought twice as many calls (bets that a price will rise) as puts. And such investors, whose share of overall stock trading in America has doubled since 2019, now account for 48% of trading volume in options, according to a forthcoming paper in the  by Svetlana Bryzgalova, Anna Pavlova and Taisiya Sikorskaya of London Business School.
+Moreover, rather than trading options that last for weeks, months or years, buyers are now piling into zero-days-to-expiration (0dte) contracts. These options, which expire the day that they are bought and yield windfalls if a price moves sharply that day, became more widely available in 2022, after exchanges increased the number of trading days on which they are available. As meme-stock mania has faded, 0dte options, mainly written on market-wide indices, have become the new fad. Daily trading of 0dte contracts recently reached a record notional value of $1trn. And according to OptionMetrics, a data provider, they now account for more than half of trading in options on the S&P 500 index, up from a quarter in 2019.
+
+
+Some market analysts have warned that 0dte options pose a systemic risk. In theory, if the investors selling them do not hold positions in the securities underlying these contracts, an abrupt intra-day price change could force them to trade vast quantities of those assets simultaneously.
+Even if options do not threaten markets as a whole, they clearly represent a siren song for retail investors. Despite the rise in share prices since early 2020, traders who have treated stockmarkets like a casino have on average fared about as well as a typical slot-machine player. The  authors estimate that between November 2019 and June 2021, retail investors collectively lost $2.1bn on options.
+
+
+The proceeds from these traders’ losses accrue both to counterparties (the investors selling the options) and to middlemen. According to a working paper by Thomas Ernst of the University of Maryland and Chester Spatt of Carnegie Mellon, “bid-ask spreads”—the gap between marketmakers’ listed buy and sell prices for a given security—are wider for options than for stocks. To collect such spreads, marketmakers pay brokers twice as much for the privilege of executing trades in options as for stocks. As a result, in 2022 retail brokers made $2bn from options trading, a small but fast-growing share of their profits. Just like casinos, in options trading, the house always wins.■
+Chart sources: JPMorgan; OptionMetrics; “Payment for order flow and asset choice,” by T. Ernst and C. Spatt, working paper, 2022; company reports
+

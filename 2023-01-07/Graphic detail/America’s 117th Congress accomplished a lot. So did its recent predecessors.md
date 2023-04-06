@@ -1,0 +1,19 @@
+###### The secret is out
+# America’s 117th Congress accomplished a lot. So did its recent predecessors 
+##### But Republicans seem more willing to publicise bipartisan lawmaking during Joe Biden’s presidency 
+> Jan 3rd 2023 
+
+
+“I think you’re gonna see the fever break,” Joe Biden said of Republicans in Congress who had reflexively opposed laws backed by Democrats. It was 2012, and Mr Biden was predicting better legislative co-operation during Barack Obama’s second term. His faith has not wavered since then. In 2019 he spoke of a looming Republican “epiphany”, and in March 2021 he said it would arrive “between now and 2022”.
+Pundits rolled their eyes, but Mr Biden may have had the last laugh. The 117th session of Congress, which ended on January 3rd, is being hailed as a model of bipartisan productivity. Laws that recognised gay marriages, raised spending on infrastructure and semiconductors, tightened background checks for gun buyers and changed how electoral votes are counted in presidential elections all won between 12 and 18 votes from the 50 Republican senators.
+Has Mr Biden revived old-fashioned deal-making? On numerical measures of productivity and bipartisanship, the 117th Congress looks ordinary. But surprisingly, this is not because it has been over-hyped. Instead, the legislature achieved more during Mr Obama’s and Donald Trump’s presidencies than its reputation suggests.
+Because laws range in importance from reshaping an economy to renaming a post office, quantifying lawmakers’ work is a thorny task. The academic best known for tackling it, David Mayhew of Yale, has compiled lists of “major laws” on a provision-by-provision basis. One way he classifies policies as bipartisan is if the law containing them was backed by majorities of both parties in either the House or Senate. 
+Not all major laws have equal impact, and this definition of bipartisan excludes bills like the recent Bipartisan Infrastructure Act. But on these criteria, the 117th Congress passed 12 major laws, near the average of 12.7 in 2001-21. Just five were bipartisan, the fewest since 2004. Every Republican opposed its two big spending bills.
+Even on a qualitative basis, this session fails to stand out. In 2009-10 Congress passed Mr Obama’s landmark health-care reform and an $800bn economic stimulus, overhauled banking regulation, beefed up pay-discrimination laws and let gay soldiers serve openly. All but one of those bills won at least three Republican Senate votes.
+
+
+Other sessions since then are also comparable to the 117th Congress. In 2015-16 the legislature limited telephone surveillance, gave states control over educational testing, sped up approval for drugs and medical devices, authorised oil exports, spent $305bn on transport and set up a bankruptcy process for Puerto Rico. Under Mr Trump, it passed bipartisan laws reducing sentences for drug crimes, approving a North American trade deal and doling out trillions of dollars in response to covid-19.
+Why, then, is Mr Biden receiving such plaudits? One explanation is a pattern that Simon Bazelon and Matt Yglesias, two political analysts, call “secret Congress”. As long as the media do not cover a bill, they argue, lawmakers from both parties can collaborate well. But once the press pays attention, partisan passions are inflamed and compromise becomes too costly.
+Now reeling from electoral defeats, Republican lawmakers may have decided that political gains with swing voters from being seen working with the president outweigh the price with their base. If so, Mr Biden’s distinctive success may not be persuading Republicans to vote for his bills, but getting them to admit their support.■
+Chart sources: David Mayhew; Matt Grossmann; 
+

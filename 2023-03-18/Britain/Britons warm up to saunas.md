@@ -1,0 +1,12 @@
+###### Hot trend
+# Britons warm up to saunas 
+##### Hipsters get almost naked. Dockers are unimpressed 
+![image](images/20230318_BRP503.jpg) 
+> Mar 16th 2023 
+A NAKED MAN sits at a poker table, playing cards held close to his chest. He has just been downstairs in the , a Russian kind of sauna. The New Docklands Russian Banya &amp; Steam Baths in east London is one of the East End’s last surviving public baths, a longtime haven for cabbies, boxers and dockworkers. But even as one type of bathing culture fades, another is on the rise.
+Four kilometres (2.5 miles) north, at Hackney Wick Community Sauna Baths, visitors sweat in saunas converted from horseboxes. When they emerge, pink-faced, into the open air, they plunge themselves into water-filled whiskey barrels. The highs, which come from alternating between temperatures, are not limited to hipsters in Hackney. Gabrielle Reason of the British Sauna Society reckons there are now 53 such “authentic saunas” across Britain, a number which has doubled every year since 2018. Half of them are on the coast, where visitors can plunge into the sea and then return to the heat. 
+Part of the fun lies in the optional add-ons. “There’s so many different types of sweating,” says Ross Elliott, who owns a sauna in Cornwall. To improve blood flow, enthusiasts can slap themselves with Finnish , fragrant bouquets of birch branches. Mr Elliott recommends pouring salt from bowl to bowl in front of your face, because “saltmarsh workers have healthier lungs than normal workers”. Hackney offers workshops in the art of towel-wafting. 
+These old and new visions of public bathing can prompt some low-level sniping. “We’re inspired by Docklands… but facilities-wise they’re a bit rough and ready,” says Katie Bracher, a “new wave” sauna consultant. “For us it’s a philosophy” but some of them are “having a jolly”, opines Anil Singh, Docklands’ operation manager. 
+Other types of sauna are available. When the queen died last year, one gay sauna live-streamed her funeral rather than its usual pornographic films in a profoundly moving show of respect. (Wary of seedy stereotypes, the Soul Water Sauna in Edinburgh is among those to ban “textile-free” bathing.) But all agree on the health benefits. A sauna can reduce pain, improve mood and increase blood circulation. Mr Elliott believes that everyone should try it. “It’s almost like trying to tell someone how to surf a wave or have an orgasm. You can’t really get it until you’ve done it.”
+
+

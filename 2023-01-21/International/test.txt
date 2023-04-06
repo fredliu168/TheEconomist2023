@@ -1,0 +1,22 @@
+
+        {
+            "props": {
+                "pageProps": {
+                    "bypassMicroapp": false,
+                    "buildNoContent": false,
+                    "buildNoPaywall": true,
+                    "buildNoAdverts": false,
+                    "buildNoAnalytics": false,
+                    "buildNoAuthentication": false
+                },
+                "__N_SSG": true
+            },
+            "page": "/",
+            "query": {},
+            "buildId": "hdjSmyL_OcVgTysABmIIw",
+            "assetPrefix": "/interactive/international/2023/01/13/open-source-intelligence-is-piercing-the-fog-of-war-in-ukraine",
+            "isFallback": false,
+            "gsp": true,
+            "scriptLoader": []
+        }
+    

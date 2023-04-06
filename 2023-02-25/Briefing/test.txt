@@ -1,0 +1,22 @@
+
+        {
+            "props": {
+                "pageProps": {
+                    "bypassMicroapp": false,
+                    "buildNoContent": false,
+                    "buildNoPaywall": true,
+                    "buildNoAdverts": false,
+                    "buildNoAnalytics": false,
+                    "buildNoAuthentication": false
+                },
+                "__N_SSG": true
+            },
+            "page": "/",
+            "query": {},
+            "buildId": "8HKkid9XNoY1bBk1-XjF7",
+            "assetPrefix": "/interactive/briefing/2023/02/23/data-from-satellites-reveal-the-vast-extent-of-fighting-in-ukraine",
+            "isFallback": false,
+            "gsp": true,
+            "scriptLoader": []
+        }
+    

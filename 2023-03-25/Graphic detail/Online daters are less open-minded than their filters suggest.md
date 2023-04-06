@@ -1,0 +1,18 @@
+###### New platforms, old habits
+# Online daters are less open-minded than their filters suggest 
+##### Users with permissive settings show similar biases to those with restrictive ones 
+> Mar 22nd 2023 
+
+
+One of the biggest differences between online dating and the old-fashioned sort is the size of the pool. The number of people using dating apps dwarfs offline social networks. So sites offer filters that let users exclude unwanted groups.
+The diversity of tastes among giant user bases should make apps a haven for people who struggle with dating offline. And data provided by The League, an American dating site aimed at educated professionals, show that the strictness of users’ filters varies, with many saying they are open to a broad range of traits. However, when users do apply filters, they mostly reflect familiar dating preferences that long predate the internet. And although users with the broadest filters find matches more often, the types of people they end up with mirror the tastes of their heavier-filtering peers.
+The League’s data cover 80,000 users across ten cities in January 2023. The site chooses pairs of users who pass each other’s filters and present them as “prospects”. If these users both “like” each other, they can chat. Users see a fixed number of candidates per day. This makes it possible to distinguish explicit dating desires (filters) from implicit ones, revealed by how often users like their prospects.
+Filtering choices follow demographic patterns. Women block 70% of potential matches, compared with 55% for men, mostly because they tend to exclude users who are shorter or younger. Whereas women 5’5” (165cm) or shorter eliminate just 17% of people based on height, those 5’10” or taller remove 45%. And women in their 50s filter out 86% of users based on age, compared with 48% for those aged 25-34.
+Because users with strict filters weed out most unsuitable people pre-emptively, you might expect them to like many of the remaining candidates. But the data show the opposite. For both sexes, the share of prospects liked by the 10% of users with the tightest filters is 11-13 percentage points lower than by the 10% with the broadest ones. This probably stems from overall pickiness. People looking for a specific type of partner can filter out many weak candidates, but can select based on other criteria, such as looks, only one by one.
+
+
+Users might find matches more often if their filters better reflected their tastes. One of the best predictors of whether someone will like a prospect is how often other users filter out that prospect’s demographic group. For example, men 5’5” or shorter get through only 7% of other users’ filters, compared with 33% for taller men. Moreover, just 13% of users whose filters allow such short men fancy them when they are presented as prospects—just over half the rate at which taller men are liked.
+Such differences are even more striking when it comes to race. Users deploy racial filters sparingly. For example, black women pass through 36% of other users’ filters, compared with 44% for women of other races. This gap is similar to the effect of one inch of height for men. However, just 24% of black women are liked as prospects, versus 37% for non-black women—an impact as great as 11 inches of male height.
+This suggests that many users who decline to filter out black women often still pass them over at the prospect stage. Singles might find better matches if they gave a chance to more of the candidates whom they claim to be open to dating.■
+Chart source: The League
+

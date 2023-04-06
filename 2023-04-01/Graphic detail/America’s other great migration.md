@@ -1,0 +1,19 @@
+###### Political movements
+# America’s other great migration 
+##### White migrants from America’s South turned its northern politics rightwards 
+> Mar 29th 2023 
+
+
+After America’s civil war, millions of black Americans left the country’s southern states. Many were newly freed from slavery. They sought, and often found, better and safer lives, in manufacturing centres such as Detroit and New York. Known as the country’s “Great Migration”, this flow of people transformed the culture and economies of the places where migrants arrived. It also gave politics in northern cities an enduring push left.
+But this was not the only great migration. Between 1900 and 1940, roughly 5m southern whites left former Confederate states and neighbouring Oklahoma. In a peer-reviewed study to be published later this year, Samuel Bazzi, Andreas Ferrara, Martin Fiszbein, Thomas Pearson and Patrick Testa used digitised census records to track these white migrants’ journeys. They found that this group was not just greater in number, but, as they spread their culture and attitudes, perhaps in political influence, too.
+White migrants differed from black ones in ways besides race. Whereas some white migrants were destitute, they were on average richer than black migrants, being about as well-to-do as whites already living in the places where they arrived. And unlike black migrants, who usually went to cities, most of them went to rural areas, often in the country’s western states. 
+The white migrants carried their convictions with them. Surveys conducted in the 1960s show that compared with white people born in the north, they were more often evangelical Christians, and tended to favour racial segregation and oppose government programmes to help black Americans. They were also more likely to set up churches and to work in newspapers and radio, which helped them share their views with their neighbours.
+
+
+The result was an outsize—and persistent—political impact in these areas, shifting politics right. In northern counties the arrival of one southern white migrant by 1940 led to more than one extra vote for Republican candidates in presidential elections between 2000 and 2020. These effects were small in areas with a modest number of southern white migrants but politically transformative once the southern-born white population reached a critical mass. Their effect on national policy was magnified further: many of them lived in states which were politically competitive or had small populations, where these extra votes matter more.
+Legislators, in turn, voted more conservatively on economic and social issues. The authors reckon that a congressional representative in 1964 hailing from a district where southern whites made up their average share (2.9%) of the population in 1940 was five percentage points more likely to vote against the Civil Rights Act than a representative from a county with no southern whites. They were also more likely to support Ronald Reagan’s tax cuts—and less likely to vote to certify Joe Biden’s 2021 election victory.
+
+
+Today, Americans are moving in the opposite direction: between 2020 and 2022, nine of the top ten states by net internal migration were in the country’s south. Some of the people now heading there will carry a legacy of past migration with them. The researchers found that parents in the north who had a high share of southern-born white neighbours were more likely to give their child a biblical name.■
+Chart source: “The other great migration: southern whites and the new right”, by S. Bazzi, A. Ferrara, M. Fiszbein, T. Pearson and P. Testa, Quarterly Journal of Economics, 2023
+

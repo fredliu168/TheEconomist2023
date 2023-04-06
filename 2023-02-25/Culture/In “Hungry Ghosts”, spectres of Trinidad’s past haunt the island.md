@@ -1,0 +1,15 @@
+###### Fiction from Trinidad
+# In “Hungry Ghosts”, spectres of Trinidad’s past haunt the island 
+##### Kevin Jared Hosein’s novel deftly merges the living and the dead 
+![image](images/20230225_CUP504.jpg) 
+> Feb 23rd 2023 
+By Kevin Jared Hosein. 
+VULTURES do not have an enviable reputation. The upside, from their perspective, is that they can  that would poison most other animals. “Knowing to savour bowels and maggoty flesh,” each scavenger that swoops into Kevin Jared Hosein’s novel is “hated by the world that it will eventually eat”.
+Ghosts, it turns out, have similar powers. The dead consume the living much as vultures devour corpses. Grief engulfs people, resentments harden and trauma echoes across generations. The ravenous ghosts in Mr Hosein’s novel are spectres of the Indian labourers shipped to  to toil on sugar plantations after the abolition of slavery in 1833. Along with their offspring they haunt the dilapidated barracks on the island’s defunct estates.
+Mr Hosein joins a line of Indian-Trinidadian writers, including  and Sam Selvon, who have grappled with the country’s history of indentured labour. He connects this past to Trinidad today. “Passage”, his short story of 2018, told of a Trinidadian family who illegally cremated a dead child in the early 2000s. “Hungry Ghosts” darts back to the 1940s to explore the ancient Indian mythology that underpins such rituals. The narrative unfolds in a sugar-cane barrack, beside a river “black with the ashes of babies”.
+The ghost of Hema Saroop, an infant cremated by her mother, Shweta, after dying from a waterborne disease, leads a cast of immaterial characters. She is “a —a hungry ghost”, her spirit cursed with an insatiable appetite. She eats her mother so ferociously that Shweta never utters her daughter’s name again. But the baby still hungers for company, and brings other ghosts with her.
+What follows is a deft merging of the dead and the living. Shweta’s “sunken eyes” struggle to fend off a fatal slumber. Her husband, Hansraj, impersonates his wealthy boss after he is murdered. Her son, Krishna, joins a gang of boys who are fascinated with death. Vultures circle overhead. Life is liminal, Shweta thinks, “all shall breathe in death and breathe out death onto everybody they meet.”
+Gloomy as all this may sound, the author’s bravura style illuminates the story. A passage describing the landscape around the barrack, a “place of lesser lives”, is luminously sketched in “shades of green soaked with vermilion and red and purple and ochre”. A dead rabbit seems almost to be reanimated in Mr Hosein’s staccato sentences, its bones snapping like the “stalks of sugar cane”, as if “the body refused to surrender to death.”
+The hungry ghosts in this story refuse to succumb to oblivion too. The barracks are ramshackle palimpsests of their histories and hopes. In the Trinidad of the 1940s, it seems, it is the imperialists who are on their way out. By contrast, the shades of the indentured feed and grow, like “bright pink lotuses in night soil”. ■
+
+
