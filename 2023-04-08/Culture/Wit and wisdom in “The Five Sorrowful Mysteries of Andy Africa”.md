@@ -1,0 +1,14 @@
+###### Nigerian fiction
+# Wit and wisdom in “The Five Sorrowful Mysteries of Andy Africa” 
+##### African literature is rich in coming-of-age-tales. Stephen Buoro’s first novel is one of the best 
+![image](images/20230408_CUP002.jpg) 
+> Apr 5th 2023 
+ By Stephen Buoro. 
+EVERYONE IN AFRICA believes in God, reckons the hero of Stephen Buoro’s debut novel, “The Five Sorrowful Mysteries of Andy Africa”. “It’s the only way we can survive.” People leave home praying that there will be electricity when they return. On the road, they pray that they will avoid motor accidents; if they crash, they pray the hospitals will be functioning. Their prayers mostly go unanswered, but still they pray. “Life in Africa is a long prayer,” Andy Africa explains.
+The novel tells the story of a 15-year-old semi-believing Christian boy from Kontagora, a town in the mainly Muslim northwest of . Andy Africa is the second and only surviving son of the fiercely devoted Mama. Since he was born by a disfiguring Caesarean section, she has brought him up on her own, making ends meet by running a small photography studio opposite the local brothel.
+The identity of Andy’s father is at first undisclosed. He has contributed neither maintenance nor fatherly wisdom. The author offers tantalising clues (and at least one false trail). The solution of the mystery, when it arrives, confirms the bleakness of the world Andy grows up in.
+He mostly spends his days mucking about with his “droogs”, Slim and Morocca. They tease him mercilessly; he philosophises about black power and mathematics (the author is a mathematician) and fantasises about white girls, with their hidden secrets and waves of platinum-blond hair. Temptation comes in the form of the first white girl he meets, Eileen, a preacher’s niece. The course of true love does not run smooth.
+Mr Buoro is a writer of imagination and flair. The book’s structure, which follows the five mysteries of the Catholic rosary, from Christ’s agony in the garden to the crucifixion, prevents the author’s cascading words from sweeping the story away. His sentences are mad, boisterous, incantatory—and, in a continent where rhythm is as common as praying, quite singular. The prose on any page could only be his.
+And Andy Africa is an unforgettable character: an old soul, goofy and generous, who dreams his evanescent dreams while battling his friends’ joshing and his own longings. The —among them poverty, corruption and the vision of life in Europe and America that social media peddles—are one reason  is rich in coming-of-age stories. For its sheer energy, “The Five Sorrowful Mysteries of Andy Africa” is among the best. ■
+
+
