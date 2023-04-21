@@ -1,0 +1,14 @@
+###### Say no more
+# Han Kang’s new novel, “Greek Lessons”, is a reflection on loss 
+##### The hit South Korean writer returns with an elliptical, enigmatic book 
+![image](images/20230422_CUP503.jpg) 
+> Apr 19th 2023 
+By Han Kang. Translated by Deborah Smith and Emily Yae Won. 
+Han Kang was already a literary star in South Korea when  was published in 2007, but her reputation was burnished when Deborah Smith’s English translation won the International Booker prize in 2016. The surreal and sinister novel chronicled the cruelty inflicted on a woman after she stops eating meat; an overseas audience proved hungry for the story of female oppression and resistance, as well as a narrative style that broke free of realist literary norms. 
+In the next of Ms Han’s novels to be translated, “Human Acts”, cruelty is inflicted by the state, not family and friends. It was inspired by a massacre of student protesters in 1980 in the author’s home city of Gwangju. Then came , an autobiographical account of a Korean novelist in Warsaw. As she reflects on the city’s wartime destruction and rebirth, she also muses on the death of her infant sister.
+Loss is a theme of “Greek Lessons”, too, Ms Han’s latest novel to arrive in English. Elliptical and fragmentary, it toggles between two unnamed characters living in Seoul. One half of the novel is narrated by a teacher of . The other half follows one of his students, a divorced young poet who, rendered mute by the death of her mother, hopes to regain her voice by taking his class.
+Ms Han’s style creates mystery, yet snippets of back story gradually make things clearer. The woman’s loss of speech is a recurrence of a problem that first transpired when she was a teenager. (The remedy then was to learn French.) Adding to her grief is the loss of her nine-year-old son in a custody battle. Her teacher, unsure how to help her communicate, has problems of his own: he is losing his sight.
+At the heart of the novel lies the difficulty of giving voice to psychological and emotional dislocation; Ms Han uses the characters’ problems as a metaphor for the inadequacy of language in general. But in the closing pages, a story of the mind becomes a story of the body, when an accident leaves the teacher in urgent need of help. A breakthrough in communication suddenly becomes vital. 
+“The shards of memories shift and form patterns. Without particular context, without overall perspective or meaning. They scatter; suddenly, decisively, they come together,” writes Ms Han, during a passage in which the woman recalls a conversation with her son. It is an apt description of how this slender, enigmatic novel works. ■
+
+
