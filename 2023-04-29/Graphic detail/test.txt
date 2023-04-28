@@ -1,0 +1,22 @@
+
+        {
+            "props": {
+                "pageProps": {
+                    "bypassMicroapp": false,
+                    "buildNoContent": false,
+                    "buildNoPaywall": true,
+                    "buildNoAdverts": false,
+                    "buildNoAnalytics": false,
+                    "buildNoAuthentication": false
+                },
+                "__N_SSG": true
+            },
+            "page": "/",
+            "query": {},
+            "buildId": "zfWZEOj8WZMRPRUGIjoN4",
+            "assetPrefix": "/interactive/2023/04/29/hollywood-is-losing-the-battle-for-china",
+            "isFallback": false,
+            "gsp": true,
+            "scriptLoader": []
+        }
+    
