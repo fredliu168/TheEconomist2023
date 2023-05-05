@@ -1,0 +1,20 @@
+###### The jury is still out
+# Suicide rates for girls are rising. Are smartphones to blame? 
+##### Hospitalisation rates for self-harm have increased by 140% since 2010 
+> May 3rd 2023 
+
+
+In 2017 jean twenge, a professor at San Diego State, wrote an essay entitled “Have smartphones destroyed a generation?” Her answer, “yes”, was provocative at the time. Now, it is a common refrain.
+Spurred by recent data showing a rise in depression among American teenagers, both the British and American press have barraged readers with stories about social media ravaging young people’s mental health. Jonathan Haidt of New York University has compared social media to waterboarding. The public has noticed: in a recent survey, 53% of Americans said that social media were mostly or fully responsible for increasing teenagers’ depression.
+Smartphones went global long ago. If they are causing an epidemic of sadness, evidence should appear around the world. Data support the claim that young people, particularly girls, have deteriorating mental health. But they leave room for doubt that mobiles are the main culprit.
+Mental health is hard to measure. Questionnaires are affected by survey design and psychological diagnoses vary between countries and over time. Instead, we focused on suicides and hospitalisations for self-harm among 17 countries. 
+Both indicators look worrying for girls. Suicide rates have been falling overall, but girls—who kill themselves less often than other groups—are an exception. Among girls aged 10-19, suicide rates rose from an average of 3.0 per 100,000 people in 2003 to 3.5 per 100,000 in 2020. The rate among boys, although higher at 6.1 per 100,000 population, has barely changed. 
+Girls engage in more non-fatal self-harm, like cutting, than boys do. This measure shows even steeper increases. For teenage girls, rates of hospitalisation for self-harm have climbed since 2010 in all 11 countries with available data, by an average of 143%. Boys’ average rise was 49%.
+
+
+Are smartphones to blame? In America and Britain, rates of suicide and self-reported sadness were steady until roughly 2010, when Instagram launched, and then took off. Although these simultaneous increases do not prove that one trend caused the other, such a correlation would probably arise if phones really were at fault.
+Elsewhere, however, the evidence is mixed. Some countries, like Sweden, saw sharp rises in hospitalisations for self-harm in 2006, with a plateau in 2010-18. In others, such as Italy, this rate was flat until covid-19 arrived. A few countries had no rises at all. Suicides varied similarly.
+Because smartphones were adopted at different rates in different countries, the timing of any increases they caused in suicides or self-harm should vary on this basis. Mr Haidt says that smartphones are especially risky for girls, because boys spend more time on video games and less on depression-inducing social media. However, we could not find any statistical link between changes over time in the prevalence of either mobile-internet subscriptions or self-reported social-media use in a country, and changes over time in that country’s suicide or self-harm-hospitalisation rates, for either boys or girls. After adjusting for the impact of covid, which raised these rates globally, this was true for all age groups, and for a range of time lags.
+Absence of evidence is not evidence of absence. Numerous studies using randomised or natural experiments have implied that social media can cause sadness or anxiety in teenagers. And smartphones could still inflict grave damage without driving people to hurt or kill themselves. But if social media were the sole or main cause of rising levels of suicide or self-harm—rather than just one part of a complex problem—country-level data would probably show signs of their effect.■
+Chart sources: National statistical authorities and health agencies of: Australia, Austria, Belgium, Czech Republic, England &amp; Wales, Estonia, France, Germany, Japan, Mexico, Netherlands, New Zealand, Norway, Slovenia, South Korea, Sweden, Switzerland and United States; UN; 
+
