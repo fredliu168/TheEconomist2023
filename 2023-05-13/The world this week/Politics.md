@@ -6,7 +6,7 @@
 A jury in Manhattan found  liable for sexually abusing a woman in the mid-1990s and for defaming her, and awarded her $5m. He called the verdict a “disgrace”. The jury did not agree that Mr Trump’s abuse of E. Jean Carroll constituted rape. Later, in a , Mr Trump refused to say whether he supported Ukraine, said America should default on its debt unless the Democrats agree to spending cuts and reiterated his fake claim that the 2020 election was stolen from him. Mr Trump is the front-runner for the Republican presidential nomination. 
 , a Republican congressman known for being economical with the truth, was charged with embezzling contributions, fraudulently obtaining unemployment benefits and lying to Congress about his financial circumstances. Mr Santos has come under pressure to resign over his many lies, such as claiming he has a degree from a college that he did not attend. 
 American states on the border with Mexico braced themselves for a surge of illegal crossings after the expiration of , a pandemic measure that had allowed for the swift removal of migrants. 
-At least eight people died in violence that swept across after Imran Khan, a former prime minister, was arrested and charged with graft. Senior leaders of his party were also detained. Mr Khan pleaded not guilty to the charges of selling state gifts while he was in power. A conviction would disqualify him from running for office again.
+At least eight people died in violence that swept across  after Imran Khan, a former prime minister, was arrested and charged with graft. Senior leaders of his party were also detained. Mr Khan pleaded not guilty to the charges of selling state gifts while he was in power. A conviction would disqualify him from running for office again.
  foreign minister, Qin Gang, held talks in Pakistan with the Taliban government of  to discuss bringing the country into the Belt and Road Initiative, China’s global infrastructure-building scheme. China has long had an eye on Afghanistan’s vast mineral resources. 
 Kishida Fumio,  prime minister, visited  for talks with the country’s president, Yoon Suk-yeol. It was their second meeting in two months—more evidence of a return to normal relations after years of acrimony. 
 Thaksin times
@@ -26,5 +26,5 @@
 ![image](images/20230513_WWP001.jpg) 
 
 The  was held at Westminster Abbey. London’s police force expressed regret for arresting six anti-monarchy protesters. It said there was no evidence they were planning to disrupt the event. 
-The World Health Organisation declared that is no longer a “public health emergency of international concern”, three years after the disease broke out. Although 7m deaths from covid have been reported, the WHO thinks the true toll is 20m. 
+The World Health Organisation declared that is no longer a “public health emergency of international concern”, three years after the disease broke out. Although 7m deaths from covid have been reported, the WHO thinks the true toll is at least 20m. 
 
