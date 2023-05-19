@@ -1,0 +1,14 @@
+###### New American fiction
+# In Emma Cline’s new novel, a young woman loses control of her life 
+##### The author of “The Girls” returns with a story of decadence and dread 
+![image](images/20230520_CUP002.jpg) 
+> May 18th 2023 
+ By Emma Cline. 
+AN OMINOUS mood sets in early in “The Guest” and persists for the duration of this taut, tense novel. Alex, the story’s 22-year-old protagonist, is not just down on her luck: she is completely out of options. Her  is not proving lucrative, and she is barred from many of the hotel bars where she used to pick up clients. She has been kicked out of her shared flat for stealing pills and failing to pay the rent. Simon, an older man—he is a benefactor first, a lover second—offers salvation in the form of a stay in his luxurious beach house for the summer. 
+But Alex is unable to make the good times last for long. High on , she crashes Simon’s car; later she gets drunk and disgraces herself at a party. She is soon cast out of this home, too. She cannot return to the city (which city is not mentioned). She stole cash and drugs from Dom, an acquaintance, before she absconded, and he is violent and vengeful. 
+Alex decides that Simon only needs some space and that they will reunite at another upcoming party. In the subsequent days, she survives using her charm and wits alone. She finds places to sleep and food to eat by adapting to the opportunities presented to her. She ingratiates herself first with a group of partygoers, then a kindly housekeeper, then a troubled teenage boy. 
+“The Guest” is a strong follow-up to Emma Cline’s bestselling . Her prose is limpid and propulsive, sustaining an atmosphere of dread. Alex’s broken phone offers a reprieve from Dom’s constant messages, but it also means he could appear without warning. Ms Cline witheringly evokes her affluent country set: the “daughters of the rich” were “pitiable because, in the end, they could buy everything but beauty”. 
+Unlike  “The House of Mirth”, which chronicles a woman’s narrowing choices and descent into poverty, “The Guest” does not say how Alex came to be in this position. Her upbringing was “ordinary”, so her self-destructive tendencies are not reducible to “some logical equation— had happened to her, some terrible thing, and so now  was her life.” 
+This can be frustrating for a reader hoping to understand Alex more fully, yet it underlines how adept she is at performance. By the end of the novel, Alex’s sense of self has been eroded entirely. “Maybe she was the ghost she had always imagined herself to be,” Ms Cline writes. “Maybe it was a relief.” ■
+
+

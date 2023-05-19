@@ -1,0 +1,13 @@
+###### Bug-fed steak
+# Insects could help turn beer waste into beef 
+##### People do not like eating insects. Livestock are less picky 
+![image](images/20230520_STP002.jpg) 
+> May 17th 2023 
+Eating insects is one of those ideas that never quite seems to catch on. The United Nations endorsed the idea a decade ago, but, in the West at least, bugs remain mostly absent from supermarket shelves. Faced with an indifferent—or disgusted—public, scientists have been exploring other options. One is to feed the insects instead to livestock, which are not so picky. 
+Of course, the insects need to eat, too. To date, they have mostly been reared on leftover chicken feed. But the supply of that is limited, and if insect-reared meat is to take off, new sources will be needed. In a paper in , Niels Eriksen, a biochemist at Aalborg University, suggests feeding them on the waste products of the beer industry.
+The world knocks back around 185bn litres of beer every year. Each litre produces between three and ten litres of wastewater full of discarded barley and yeast . The mix is rich in protein but deficient in carbohydrates, especially compared with chicken feed. Most insects grown for feed depend, in the wild, on the carbohydrates found in rotting fruit. Whether insects would actually consider brewery waste a square meal was, therefore, unclear. 
+The researchers used the larvae of the black soldier fly, a workhorse of the “entomoremediation” world. The juvenile insects were divided into three groups, which were offered beer waste, chicken feed or a mixture of both. The researchers monitored both their weight gain and the amount of carbon dioxide they exhaled, which helped assess the insects’ metabolic performance.
+The larvae happily consumed both brewery waste and chicken feed, and grew equally well on either food source. When Dr Eriksen ground some up and chemically analysed the resulting paste, he found few differences in how nutritious the insects would be to farm animals. The results confirmed one of Dr Eriksen’s hunches. Although black soldier fly larvae favour rotting fruit in the wild, they are capable of eating carrion too. Like beer waste, it too is rich in protein and low in carbohydrates. 
+The experiment may have implications beyond the brewing business, too. Bone meal from slaughterhouses, sugar-beet waste and waste from other fermentation industries (such as those that produce bioethanol) are all likewise plentiful and protein-rich. All now look to be reasonable targets for nutrient recycling by insects. Whether consumers will be willing to eat insect-reared beef, though, remains to be seen.■
+
+
