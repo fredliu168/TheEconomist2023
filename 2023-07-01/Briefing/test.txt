@@ -1,0 +1,22 @@
+
+        {
+            "props": {
+                "pageProps": {
+                    "bypassMicroapp": false,
+                    "buildNoContent": false,
+                    "buildNoPaywall": true,
+                    "buildNoAdverts": false,
+                    "buildNoAnalytics": false,
+                    "buildNoAuthentication": false
+                },
+                "__N_SSG": true
+            },
+            "page": "/",
+            "query": {},
+            "buildId": "-o8g0dk3cgBKeh7WMhpqf",
+            "assetPrefix": "/interactive/briefing/2023/07/01/the-surprising-upside-of-climate-migration",
+            "isFallback": false,
+            "gsp": true,
+            "scriptLoader": []
+        }
+    
