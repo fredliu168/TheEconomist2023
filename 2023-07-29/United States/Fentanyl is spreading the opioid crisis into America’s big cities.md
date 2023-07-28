@@ -1,0 +1,11 @@
+###### Darker still
+# Fentanyl is spreading the opioid crisis into America’s big cities 
+##### And death rates may rise further 
+![image](images/20230729_USP503.jpg) 
+> Jul 27th 2023 
+In a world where open data makes spreadsheets with tens of thousands of anonymised entries available to the public, sometimes individual detail can still stand out. On Christmas Day last year, according to data downloaded from the Cook County medical examiner, the coroner in Chicago and its closer suburbs, four people died from opioid overdoses. One, a 34-year-old man, had apparently been taking cocaine. Another, a 43-year-old, was suffering “complications of chronic ethanolism”. All four, however, were almost certainly killed by the first drug listed as cause of death: fentanyl. They were among exactly 2,000 people killed by opioid overdoses in Cook County last year, accounting for close to one in 20 of all deaths. Over the past eight years, the annual total has tripled. Nine in ten deaths involved fentanyl.
+When opioids first started killing Americans in very large numbers, it was disproportionately white people, often in rural areas, who were the victims. Cities and ethnic minorities generally suffered lightly. Yet a far worse wave of death is under way now, caused almost entirely by fentanyl, an incredibly powerful synthetic opioid that can be used legally as a painkiller, but is mostly produced by Mexican cartels and smuggled into America.
+In 2021 opioid overdoses killed 80,000 Americans, according to data from the Centres for Disease Control, a government agency. The figures from Cook County suggest that cities are now being hit hard too, as are ethnic minorities. Of deaths in Cook County last year, a majority were African-American. Nationally in 2021 black Americans made up 18% of victims, up from 13% in 2018, even though deaths of people of all races continue to rise. 
+Because it is so potent, and so easy to smuggle, fentanyl has all but competed heroin, made from poppies, out of the market. One Chicago-based drug dealer (who sells only cannabis) says that fentanyl pills can be had wholesale for as little as $1 each. But that potency is also deadly: dealers using crude equipment can easily accidentally press a lethal quantity into a single pill. Sadly, that suggests death rates may not yet have peaked.■
+
+

@@ -1,0 +1,22 @@
+
+        {
+            "props": {
+                "pageProps": {
+                    "bypassMicroapp": false,
+                    "buildNoContent": false,
+                    "buildNoPaywall": true,
+                    "buildNoAdverts": false,
+                    "buildNoAnalytics": false,
+                    "buildNoAuthentication": false
+                },
+                "__N_SSG": true
+            },
+            "page": "/",
+            "query": {},
+            "buildId": "ZrJ_HTJEKO32ExHqtzh7a",
+            "assetPrefix": "/interactive/1843/2023/07/27/how-ukraines-virtually-non-existent-navy-sank-russias-flagship",
+            "isFallback": false,
+            "gsp": true,
+            "scriptLoader": []
+        }
+    

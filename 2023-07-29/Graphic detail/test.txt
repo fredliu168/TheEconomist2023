@@ -1,0 +1,22 @@
+
+        {
+            "props": {
+                "pageProps": {
+                    "bypassMicroapp": false,
+                    "buildNoContent": false,
+                    "buildNoPaywall": true,
+                    "buildNoAdverts": false,
+                    "buildNoAnalytics": false,
+                    "buildNoAuthentication": false
+                },
+                "__N_SSG": true
+            },
+            "page": "/",
+            "query": {},
+            "buildId": "hDtAGHWdSLSgPAHi064qL",
+            "assetPrefix": "/interactive/graphic-detail/2023/07/27/data-on-air-bases-suggest-a-chinese-invasion-of-taiwan-may-not-be-imminent",
+            "isFallback": false,
+            "gsp": true,
+            "scriptLoader": []
+        }
+    
