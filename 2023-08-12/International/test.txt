@@ -1,0 +1,22 @@
+
+        {
+            "props": {
+                "pageProps": {
+                    "bypassMicroapp": false,
+                    "buildNoContent": false,
+                    "buildNoPaywall": true,
+                    "buildNoAdverts": false,
+                    "buildNoAnalytics": false,
+                    "buildNoAuthentication": false
+                },
+                "__N_SSG": true
+            },
+            "page": "/",
+            "query": {},
+            "buildId": "KgwxatdKMmKCmksYZpE5F",
+            "assetPrefix": "/interactive/international/2023/08/03/western-values-are-steadily-diverging-from-the-rest-of-the-world",
+            "isFallback": false,
+            "gsp": true,
+            "scriptLoader": []
+        }
+    
