@@ -1,0 +1,23 @@
+###### Bartleby
+# A retiring consultant’s advice on consultants 
+##### How to manage the snake-oil salesmen 
+![image](images/20230819_WBD001.jpg) 
+> Aug 17th 2023 
+DEAR Robin, I was delighted when you commissioned me to prepare this report for you after our discussion at the club. As a newly appointed chief executive at a 500 company, a thrilling yet perilous adventure awaits you. I commend your wisdom in choosing to hire a management consultant to guide you on your way.
+I, naturally, would have been ideally positioned, given my many years of experience serving your company’s principal rival. Alas, the time comes in every man’s life when he must hang up his hat and retire to his home in the Bahamas. As my swan song, I have thrown together, as requested, a few thoughts on how to handle my kind. I hope you find the attached 120-page PowerPoint presentation useful. Below you will find a brief summary.
+Do not be fooled by the eloquent veterans who will turn up to your office to plead for your business. The work will mostly be done by clever but pimply 20-somethings, armed with two-by-two matrix frameworks recycled from client to client. What they lack in wisdom will be made up for in long hours. You need not feel sorry for them. They are cocooned in a shell of fancy meals, lavish hotels and private drivers—at your expense. 
+At first you will find them to be of no use at all—detrimental, even—as they harry your management team with endless questions and urgent requests for data. Eventually, they will win you over with their brains and gumption—or be quietly replaced. Meanwhile, those grey-haired senior partners will pop by from time to time. Beware.
+We consultants are masters of the clandestine sale. If you hire us for a two-month project, it will assuredly take 12. By the time it ends, our tentacles will have spread. Ask for a new company strategy, blink, and we will be cutting your costs, fixing your IT systems and tinkering with your supply chain.
+Like many other bosses, you may one day tire of our eye-watering rates and decide to poach the cleverest consultants for yourself. We will happily oblige. The most reliable missionary for the merits of consulting is one of our own. The more senior, the better. Hire them, but do not give them the cheque book.
+Every self-respecting consultant knows that big recommendations demand big numbers. As a rule, divide everything you see by two. Never trust a benchmark; I made up most of mine. And carefully read those endless notes at the bottom of charts. That is often where the dirtiest secrets are buried. Be doubly dubious of any consulting reports your underlings happen to commission, especially when they recommend a bigger budget for said underling.
+As a freshly minted chief executive, you are undoubtedly brimming with ideas. Many of them are terrible. Some may prove catastrophic. Among the valuable services offered by management consultants is the human shield. Make sure your board knows it was they who recommended the disastrous new product line or the overpriced acquisition. You always had your doubts, but trusted their illustrious reputations. Equally, your consultants may, from time to time, stumble upon a good idea. You thought of it first.
+Your consultants will do their utmost to woo you into exclusivity. There will be much talk of “long-term partnership”. Yet it is a one-sided monogamy they seek. Fidelity is not in a consultant’s nature. Chances are they are already advising your competitors, with only the thinnest of Chinese walls between teams.
+Follow their example and hire their rivals, too. Ideally, sit them in adjacent rooms at your offices. Consultants are fiercely competitive, and nothing will better spur them on to even longer reports than seeing their nemeses wandering the halls of your company. If bored, invite representatives of two warring firms to a meeting and watch them tussle for your favour.
+As I look back on my career, I am not too proud to admit that I have occasionally fleeced the odd firm. But I maintain that my profession is a noble one. “Impact”, after all, is our industry’s watchword. (Admittedly, I never was quite clear what it meant, but you cannot deny it sounds lofty.)
+One final thought to conclude: there is never a problem too big or small for a consultant. That I can confirm from experience. Your bill, including expenses, is attached. Good luck. ■
+
+
+
+
+
+
