@@ -1,0 +1,22 @@
+
+        {
+            "props": {
+                "pageProps": {
+                    "bypassMicroapp": false,
+                    "buildNoContent": false,
+                    "buildNoPaywall": true,
+                    "buildNoAdverts": false,
+                    "buildNoAnalytics": false,
+                    "buildNoAuthentication": false
+                },
+                "__N_SSG": true
+            },
+            "page": "/",
+            "query": {},
+            "buildId": "HekSgQJzJNZyFjBMjHo0W",
+            "assetPrefix": "/interactive/graphic-detail/2023/09/12/democratic-backsliding-seems-real-even-if-it-is-hard-to-measure",
+            "isFallback": false,
+            "gsp": true,
+            "scriptLoader": []
+        }
+    
