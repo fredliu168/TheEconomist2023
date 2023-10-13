@@ -1,0 +1,22 @@
+###### Johnson
+# Young Americans are losing the southern accent 
+##### Millennials and Gen Z sound increasingly like their countrymen 
+![image](images/20231014_CUD001.jpg) 
+> Oct 11th 2023 
+IS THE SOUTHERN accent in decline? A recent study by four researchers from three universities, widely covered in the press, indicates that a prized and unique part of America’s linguistic culture may be under threat. As the put it, “The  drawl is fading, y’all.”
+ shifts often accompany demographic ones. Americans began moving south in larger numbers in the 1960s. Southern cities boomed as a result. Naturally, people took their children along (including a young Johnson, who moved from Nebraska to Atlanta with his Georgian father and Wisconsin-born mother). 
+The study found that the southern accent is most common among baby-boomers, born from the mid-1940s to the mid-1960s, before the influx of migrants to the South ramped up. Among Generation X—people born from the mid-1960s to the early 1980s—the prevalence of southern sounds declines, as Georgia-born children socialised with transplants from northern cities like Boston and Chicago. The youngest Georgians, millennials and Generation Z, sound the least southern of all.
+There is not a single southern sound. Linguists broadly distinguish “inland” and “lowland” accents—inland speakers are more likely to say  for , for example—and note local particularities. These are the accents of southern whites, which the study focuses on, even though southern white and black English dialects share many features, from vocabulary (“y’all” for the second-person plural, most famously) to grammar (eg, double negation: “I ain’t got none”). 
+The famous drawl is largely a matter of the “southern vowel shift”. Linguists classify vowels primarily by where the tongue is in the mouth when they are pronounced: the tongue can be low or high, and forward or back. (The rounding of the lips changes the sound, too.) In the southern shift, the vowel in , elsewhere pronounced with the tongue slightly raised, becomes higher. It also becomes a “diphthong”, or two vowels rapidly sliding one to the other: . And a vowel shift like the southern one tends to affect several vowels, because a change in one may risk confusion if another, similar vowel does not change too. So southern-shifted  sounds a bit more like , and so on, with many vowels becoming “higher”.
+But the researchers found that younger Georgians’ vowels are heading in the other direction, taking part in a wider vowel change occurring in America. Speakers who reflect this shift tend to pronounce  and  as homophones, and so another chain reaction takes place, and the vowels in ,  and  are lowered (towards ,  and , though not all the way there).
+The southern drawl is the most emblematic American voice: many people imitating a stereotypical American will adopt a twangy southern accent, though it is far from America’s most common. Nor is it ancient. The researchers found that speakers born around 1900 almost entirely lack the southern shift, which peaked two generations later. If you listen to a speaker born in 1894 (recorded for the Linguistic Atlas of the Gulf States and available online) you will hear a distinctive sound: certainly southern, but quite unlike the tones of a 70-year-old Georgian today. 
+In other words, the voice seen as totemic of the South—a region by reputation attached to its past—is newer than is assumed. There is no reason why it should be eternal. Yet the researchers do not suggest that the accent is on its deathbed: merely that fewer young southerners have it. 
+Paul Reed, a linguist at the University of Alabama, notes that other research finds the accent more robust in rural areas. Metro Atlanta is not all of Georgia (though its boom and sprawl continues, and sometimes seems to threaten to consume the whole state). If some features of “Georgianness” decline from the accent, he says, it is entirely possible others will arise to replace them.
+If the southern accent was fixin’ to disappear, that would be a pity. Fortunately that is not imminent. But a gentle shift of the southern accent could also be seen as a sign of how popular the South has become. Americans are  to the region. That is a happy phenomenon in a country bitterly divided by party, values and religion. 
+The South has long been unique in history and politics, as well as language. Its gradual integration with the rest of the country, as outsiders discover its  and make a home there, can be a good thing, too.■
+
+
+
+
+
+
