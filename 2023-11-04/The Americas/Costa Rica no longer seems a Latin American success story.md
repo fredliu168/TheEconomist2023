@@ -1,0 +1,12 @@
+###### Paradise lost?
+# Costa Rica no longer seems a Latin American success story 
+##### Its state services are crumbling, and people are angry about it 
+![image](images/20231104_AMP502.jpg) 
+> Nov 2nd 2023 
+On October 25th San José, the capital of Costa Rica, was filled with music and placards as several thousand marched to the presidential palace to call on President Rodrigo Chaves to provide more funding for the country’s public services. Many shouted in favour of more money for education, which does not receive the 8% of GDP annually that the constitution mandates. Others called for supporting the Caja, the institution that provides health care and pensions to , as citizens are known.
+The country has long stood out among its neighbours in Latin America for its universal health care and education, along with its democratic institutions. Worries that they are worsening have been accelerated by the president’s current focus on cost-cutting. It also comes at a time when the country faces a surge in violent crime, and youngsters need opportunities so as to not get involved with . 
+Mr Chaves says that he agrees that public services have deteriorated. But he pins the blame on the “bad administration” of the country for the past four decades. Mr Chaves says he “loves” that people march to the presidential palace to defend their rights, but his government does not have the headroom to spend more on health or education. “You have people defending...interests that don’t necessarily coincide with the general well-being,” he argues. 
+Costa Rica has long struggled with how to pay for its welfare state. The pandemic worsened matters, causing debt-to-GDP to rise to 68% in 2021. Mr Chaves has reduced that to 60%.
+But many fret that Mr Chaves’s parsimony is an excuse for a full-scale overhaul of the welfare state. He has raised tensions with the Caja by calling it “bankrupt”. That is not true, says Álvaro Ramos Chaves, a former head of the institution (no relation to the president). 
+Similarly, the president has also worried some by criticising other liberal institutions, such as public universities and the independent media. Yet with an approval rating of over 60%, he is unlikely to change course. ■
+
