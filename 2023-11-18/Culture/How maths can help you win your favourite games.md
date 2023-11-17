@@ -1,0 +1,16 @@
+###### Well played
+# How maths can help you win your favourite games 
+##### A global history of gaming is educational and filled with practical tips 
+![image](images/20231118_CUP502.jpg) 
+> Nov 15th 2023 
+ By Marcus du Sautoy. 
+WHICH ARE the best properties to buy when playing Monopoly, and how many houses should you build on them? Which continent should you aim to take over first in Risk? And what is the best strategy when using the doubling cube in ? These are some of the questions considered and answered by Marcus du Sautoy, a British mathematician and Oxford professor, in his sprightly, light-hearted history of .
+The narrative is organised geographically as a trip around the world, starting with ancient games from the Middle East—backgammon, the Royal Game of Ur, the Egyptian game of senet—and ending up in Europe with modern games such as Pandemic and Dobble. Along the way the author considers many old favourites (Cluedo, Scrabble, Risk), recent arrivals (, Settlers of Catan) and less familiar games from a wide range of cultures and historical periods, such as the African game of mancala and the Indian card game of ganjifa, whose rules change at night. 
+The list is not exhaustive or comprehensive but reflects his own collection. It includes a handful of  (Prince of Persia, Game of Life) and one sport (the Mayan ball game of pitz).
+All this is, of course, really an opportunity for Mr du Sautoy to sprinkle in plenty of mathematical explanations, to provide what he calls “a  that swims seductively just below the surface of many of the games I love”. Playing games, he writes, “overlaps with what I enjoy about mathematics”: the challenge of solving a problem within a set of rules, the need to overcome obstacles and the victorious “aha” moment when a solution is found. 
+As well as forays into probability and game theory, he explains dice rolls in Monopoly using Markov chains; the torus-shaped playing field of video games like Spacewar!; and how the geometries of finite projective planes underpin the deceptively simple game of Dobble. And in many cases these explanations provide concrete advice to players.
+In Monopoly, says Mr du Sautoy, the best properties to buy are the orange ones, followed by the red ones (and build three houses on them). In Risk, control of North America has the best risk-reward ratio, generating a good supply of bonus armies while being easy to defend. In backgammon, accept a double if you think you have more than a 20% chance of winning; offer one if you think you have more than an 80% chance of winning. Oh, and “TALES” is the best starting word in Wordle.
+The hybrid history-travelogue approach is clunky at times, and some of the entries are not games at all, but mini-essays on game-related topics, from biography to psychology. And despite its high-concept framing, the book can be read in pretty much any order; indeed, the author suggests a game to randomise the order of the chapters. (In an appendix, he then works out how many possible options there are, which doubles as an illustration of the technique of proof by induction.) 
+Fun, unexpected, operating within fixed but arbitrary rules, producing a range of complex outcomes and offering insights that can be applied to everyday life—a good game combines all these elements. The same can also be said of this book. ■
+
+
