@@ -1,0 +1,21 @@
+###### Bartleby
+# How not to motivate your employees 
+##### Douglas McGregor’s prescient writing on management and motivation 
+![image](images/20231125_WBD001.jpg) 
+> Nov 20th 2023 
+Here are some handy rules of thumb. Anyone who calls themselves a thought leader is to be avoided. A man who does not wear socks cannot be trusted. And a company that holds an employee-appreciation day does not appreciate its employees. 
+It is not just that the message sent by acknowledging staff for one out of 260-odd working days is a bit of a giveaway (there isn’t a love-your-spouse day or a national don’t-be-a-total-bastard week for the same reason). It is also that the ideas are usually so tragically unappreciative. You have worked hard all year so you get a slice of cold pizza or a rock stamped with the words “You rock”? 
+This approach reveals more about the beliefs of the relevant bosses than it does anything about what actually motivates people at work (the subject of this week’s , our management podcast). In a book published in 1960, called “The Human Side of Enterprise”, Douglas McGregor, a professor at MIT Sloan School of Management, divided managers’ assumptions about workers into two categories. He called them theory X and theory Y. 
+McGregor, who died in 1964, was a product of his time. The vignettes in the book feature men with names like Tom and Harry. But his ideas remain useful. 
+Theory X managers believe that people have a natural aversion to work; their job is to try and get the slackers to put in some effort. That requires the exercise of authority and control. It relies heavily on the idea of giving and withholding rewards to motivate people. Perks and pizza fit into this picture but pay is critical to theory X; work is the price to be paid for wages.
+Theory Y, the one McGregor himself subscribed to, is based on a much more optimistic view of humans. It assumes that people want to work hard and that managers do not need to be directive if employees are committed to the goals of the company. It holds that pay can be demoralising if it is too low or unfair, but that once people earn enough to take care of their basic needs, other sources of motivation matter more. In this, McGregor was a follower of Abraham Maslow, a psychologist whose hierarchy of needs moves from having enough to eat and feeling safe up to higher-order concepts like belonging, self-esteem and purpose. 
+Theory X is not dead. It lives on in low-wage industries where workers must follow rules to the letter and in high-wage ones where pay motivates people long after they can feed themselves. It surfaces in the fears of managers that working from home is a golden excuse for people to do nothing. It shows up in the behaviour of employees who phone in and bosses who bully and berate. 
+Nevertheless, theory Y is in the ascendant. You cannot move for research showing that if people think what they do matters, they work harder. A meta-analysis of such research, conducted by Cassondra Batz-Barbarich of Lake Forest College and Louis Tay of Purdue University, found that doing meaningful work is strongly correlated with levels of employee engagement, job satisfaction and commitment. Trust is increasingly seen as an important ingredient of successful firms; a recent report by the Institute for Corporate Productivity found that high-performing organisations were more likely to be marked by high levels of trust. 
+Firms of all kinds are asking themselves Y. Companies in prosaic industries are trying to concoct purpose statements that give people a reason to come into work that goes beyond paying the rent. The appeal of autonomy and responsibility permeates the management philosophy not just of creative firms like Netflix but also of lean manufacturers that encourage employees to solve problems on their own initiative. Some retailers have raised wages in the theory Y belief that reducing workers’ financial insecurity will improve employee retention and organisational performance. 
+McGregor himself wrote that the purpose of his book was not to get people to choose sides but to get managers to make their assumptions explicit. On this score he is less successful. It is still possible to run financially viable firms in accordance with theory X. It is impossible to admit it.■
+
+
+
+
+
+
