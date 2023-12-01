@@ -1,0 +1,22 @@
+
+        {
+            "props": {
+                "pageProps": {
+                    "bypassMicroapp": false,
+                    "buildNoContent": false,
+                    "buildNoPaywall": true,
+                    "buildNoAdverts": false,
+                    "buildNoAnalytics": false,
+                    "buildNoAuthentication": false
+                },
+                "__N_SSG": true
+            },
+            "page": "/",
+            "query": {},
+            "buildId": "uRtsMYIaEidJIzGaHJtGR",
+            "assetPrefix": "/interactive/the-economist-explains/2023/11/27/who-are-the-palestinians-in-israels-prisons",
+            "isFallback": false,
+            "gsp": true,
+            "scriptLoader": []
+        }
+    
