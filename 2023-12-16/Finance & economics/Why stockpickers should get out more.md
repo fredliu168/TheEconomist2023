@@ -1,0 +1,13 @@
+###### Road trader
+# Why stockpickers should get out more 
+##### The importance of having an opinion about Baku’s kebabs 
+![image](images/20231216_FNP504.jpg) 
+> Dec 14th 2023 
+In Joseph O’Neill’s novel “Netherland”, a jaded equities analyst, covering oil and gas firms, confesses to the tricks he uses to add credibility to his stock picks. “Voice a first-hand opinion about the kebabs of Baku”, he says, “and people will buy almost anything you follow up with”. 
+Financial analysts, like journalists, split their time between deskwork and roadwork: meeting executives, inspecting operations, tasting the local cuisine. Are these escapes into the outside world worth it? Travel can be eye-opening. Managers may reveal more in situ than they would on an earnings call. But roadwork is also time-consuming and potentially misleading. Charismatic managers with flashy facilities can employ their own tricks. Stray impressions can skew a visitor’s judgment.
+In a new paper Azi Ben-Rephael of Rutgers University, Bruce Carlin of Rice University, Zhi Da of the University of Notre Dame and Ryan Israelsen of Michigan State University investigate the benefits of travel. They track 336 analysts of American stocks from 2017 to 2021, estimating the length of their office days from the time they spent logged in to their Bloomberg terminals. Analysts who did not log in during a workday were assumed to be travelling for work. 
+Logging off and getting out has some costs: peripatetic analysts issued fewer forecasts. But their stock recommendations made more of a splash, moving the market by more than their peers’ picks. They were also more likely to be rated as “star” analysts in the rankings published by , a magazine. 
+Was this prestige deserved? Escaping from the office does, after all, give a stockpicker more time to schmooze with the institutional investors who contribute to rankings. And it fills their sleeves with more seductive tales to tell.
+On the other hand, the paper shows that the forecasts of well-travelled analysts were also significantly more accurate than those of their peers. Causality is hard to establish: perhaps better forecasters earn more freedom to roam the world. However, the authors demonstrate that when the covid-19 pandemic struck in early 2020, clipping the wings of analysts who had previously travelled frequently, the accuracy of their forecasts deteriorated disproportionately. Travel helps analysts. It’s not just the kebab-tasting. It’s also the tyre-kicking. ■
+
+
