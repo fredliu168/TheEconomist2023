@@ -2,7 +2,7 @@
 # This week’s cover 
 ##### How we saw the world 
 > Dec 20th 2023 
-AS ALWAY, OUR Christmas cover eschews the news in favour of an image inspired by the special features that fill half the issue. This year these pieces cover, among other things, the intricacies of , how climate change is  and the adventures of a .
+AS ALWAYS, OUR Christmas cover eschews the news in favour of an image inspired by the special features that fill half the issue. This year these pieces cover, among other things, the intricacies of , how climate change is  and the adventures of a .
 Another story, on why economists , inspired three possible cover ideas. The first featured the eponymous hero stranded on his island with a bottle of wine and a  in the distance, visual references to two other pieces in the issue. It was charming, but lacked a sense of seasonality. 
 ![image](images/20231220_OPD002.jpg) 
 
